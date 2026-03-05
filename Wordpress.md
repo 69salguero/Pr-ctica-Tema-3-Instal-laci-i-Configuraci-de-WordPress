@@ -30,3 +30,34 @@ Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinad
 ![](https://github.com/69salguero/Pr-ctica-T3-Instal-laci-i-Configuraci-de-WordPress/blob/main/not.png)
 
 ![](https://github.com/69salguero/Pr-ctica-T3-Instal-laci-i-Configuraci-de-WordPress/blob/main/ooooo.png)
+
+## Funcionalitats implementades
+
+- **Publicació d’articles:** Crear, editar i publicar notícies fàcilment.
+
+- **Categories i etiquetes:** Organització de notícies per seccions (Últimas 24h, Anàlisi, Copa del Rey, Champions League, Taula de classificació).
+
+- **Menú de navegació:** Permet accedir ràpidament a qualsevol secció del portal.
+
+- **Disseny responsive:** Adaptació del portal a mòbils i tauletes.
+
+- **Imatges destacades:** Cada notícia pot tenir imatges per fer-la més atractiva.
+
+Taula de classificació automàtica: Permet veure la posició actual dels equips sense necessitat de buscar externament.
+
+
+
+
+## Detalls rellevants
+
+- El portal està pensat per actualitzar-se fàcilment amb noves notícies i anàlisis.
+
+- És un projecte que combina aprenentatge de WordPress amb el disseny de contingut digital.
+
+- S’ha prioritzat la usabilitat i l’accessibilitat per a tots els dispositius.
+
+
+
+
+
+
