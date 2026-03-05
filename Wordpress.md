@@ -18,3 +18,5 @@ Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinad
 
 ## Imatges
 ![](https://github.com/69salguero/Pr-ctica-T3-Instal-laci-i-Configuraci-de-WordPress/blob/main/not.png)
+
+![](https://github.com/69salguero/Pr-ctica-T3-Instal-laci-i-Configuraci-de-WordPress/blob/main/ooooo.png)
