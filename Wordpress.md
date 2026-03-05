@@ -16,13 +16,13 @@ Durant el procés també vaig configurar aspectes importants del portal com:
 
 La pàgina està organitzada en diverses seccions principals:
 
-- Últimas 24h: per mostrar les notícies més recents del món del futbol.
+- **Últimas 24h:** per mostrar les notícies més recents del món del futbol.
 
-- Anàlisi dels millors equips: on es publiquen articles d’anàlisi sobre rendiment, estratègia i jugadors destacats.
+- **Anàlisi dels millors equips:** on es publiquen articles d’anàlisi sobre rendiment, estratègia i jugadors destacats.
 
-- Copa del Rey i Champions League: seccions dedicades a les competicions més importants, amb notícies, resultats i curiositats.
+- **Copa del Rey i Champions League:** seccions dedicades a les competicions més importants, amb notícies, resultats i curiositats.
 
-- Taula de classificació: per veure la posició dels equips en les diferents lligues i competicions.
+- **Taula de classificació:** per veure la posició dels equips en les diferents lligues i competicions.
 
 Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinadors com en dispositius mòbils, assegurant-me que el disseny fos responsive i fàcil de navegar per als usuaris.
 
