@@ -1,5 +1,5 @@
 # Pràctica Tema 3 - Instal·lació i Configuració de WordPress
-## Descripció 
+## 1.Descripció 
 
 Per realitzar aquest projecte he creat un portal de notícies de futbol anomenat **"NoticiasFutbol"** utilitzant WordPress com a gestor de continguts. L’objectiu era desenvolupar una pàgina web funcional on es puguin publicar i organitzar notícies relacionades amb el futbol.
 
@@ -26,7 +26,7 @@ La pàgina està organitzada en diverses seccions principals:
 
 Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinadors com en dispositius mòbils, assegurant-me que el disseny fos responsive i fàcil de navegar per als usuaris.
 
-## Imatges
+## 2.Imatges
 ### Pàgina principal (inici) 
 
 
@@ -42,7 +42,7 @@ Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinad
 
 
 
-## Funcionalitats implementades
+## 3.Funcionalitats implementades
 
 - **Publicació d’articles:** Crear, editar i publicar notícies fàcilment.
 
@@ -57,9 +57,12 @@ Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinad
 - **Taula de classificació automàtica:** Permet veure la posició actual dels equips sense necessitat de buscar externament.
 
 
+## 4. Enllaç al portal
 
 
-## Detalls rellevants
+
+
+## 5. Detalls rellevants
 
 - El portal està pensat per actualitzar-se fàcilment amb noves notícies i anàlisis.
 
