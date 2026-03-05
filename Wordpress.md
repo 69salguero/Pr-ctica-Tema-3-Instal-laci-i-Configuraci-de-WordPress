@@ -16,5 +16,5 @@ Durant el procés també vaig configurar aspectes importants del portal com:
 
 Finalment, vaig comprovar que la pàgina funcionés correctament tant en ordinadors com en dispositius mòbils, assegurant-me que el disseny fos responsive i fàcil de navegar per als usuaris.
 
-##Imatges
-!^[](https://github.com/69salguero/Pr-ctica-T3-Instal-laci-i-Configuraci-de-WordPress/blob/main/not.png)
+## Imatges
+![](https://github.com/69salguero/Pr-ctica-T3-Instal-laci-i-Configuraci-de-WordPress/blob/main/not.png)
