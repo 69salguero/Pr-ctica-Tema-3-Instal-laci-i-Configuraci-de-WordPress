@@ -1,1 +1,1 @@
-# Pr-ctica-T3-Instal-laci-i-Configuraci-de-WordPress
+# Pràctica Tema 3 - Instal·lació i Configuració de WordPress
